@@ -7,9 +7,7 @@
  network engineer · tech support L2–L3 · Novosibirsk, RU
 ```
 
-[![Открыть резюме](https://img.shields.io/badge/▶%20%20ОТКРЫТЬ%20РЕЗЮМЕ-1a1f2e?style=for-the-badge&logo=readthedocs&logoColor=e8b34a)](https://red9del.github.io)
-
-[![Обо мне](https://img.shields.io/badge/●%20%20ОБО%20МНЕ-1a1f2e?style=for-the-badge&logo=aboutdotme&logoColor=5ccfe6)](https://red9del.github.io/#hobbies)
+[![about](https://img.shields.io/badge/%3E%20cat%20~/about.me-1a1f2e?style=for-the-badge&logo=gnubash&logoColor=7ddc8b)](https://red9del.github.io)
 
 [![Telegram](https://img.shields.io/badge/Telegram-@d__vishn-26A5E4?style=flat-square&logo=telegram&logoColor=white)](https://t.me/d_vishn)
 [![Email](https://img.shields.io/badge/Email-spas260@gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:spas260@gmail.com)
